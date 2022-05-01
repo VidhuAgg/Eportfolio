@@ -14,15 +14,23 @@ My first interaction with technology was when i got a RC car at the age of 9 and
 ### 1. [Pearl By Madhuri](https://www.pearlbymadhuri.com): E-commerce website for jewellery 
 It is a startup initiative which is aimed towards online sales on gold/silver/artificial jewellery all at the same platform. It features a variety of collection which can be purchased by the users with ease and is actively managed as well in order to keep the website up to date with the ongoing trends in the industry.
 
-[Link](https://www.pearlbymadhuri.com) and ![Image](src)
+### 2. [Park 5](https://github.com/VidhuAgg/Park5): Parking app designed for Stockholm
+A collaborative project with [Yash Mohan Dhanore](https://github.com/yashdhanore) which was aimed to locate parking spots nearby in the app using GPS and then plotting on the map all such spots found. It was also planned to build features to let the users purchase a relevant parking ticket directly from the app. The original idea was to have a real time data-base of occupied parking spots and update the availibility live on the map to allow the users to locate a spot accurately. I was reponsible for designing the front-end of the app as well as configuring the database using google firebase.
 
+### 3. [Alpha Blasters](https://github.com/VidhuAgg/IS1200Alphablaster): Space shooter game developed for Chipkit Uc32
+Another collaborative project with [Yash Mohan Dhanore](https://github.com/yashdhanore) which was a part of the course IS1200 offered at KTH. The game was developed using C programming language including all the graphics used as well as the UI/UX. the game was playable on a oled built in on the chipkit using the onboard buttons through which the player could move up or down and dodge incoming asteroids as well as fire to destroy them. I was responsible for the game logic and determining how the graphics are updated on the screen. I also implemented a logic to keep track of the highscore and the ability to save highscored by inputing a name.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 4. [Kabadhiwala](https://www.facebook.com/KabadhiWala1/): Automatic waste collection robot
+It was a prototype robot dustbin which was self aware in order to detect and then collect solid waste around it. It used a variety of sensors to be aware of its surrounding and finally using computer vision to identify possible waste which in the prototype was limited to crushed bottles/cans. It further then tracked the waste to approach it and scoop it in with a grabbing mechanism.
+ 
+ 
+## Work Experience
 
-### Jekyll Themes
+### 1. Full stack developer intern - Archr
+Currently working as a full stack developer for Archr in order to help them design a website for thier company which would serve as a platform for comparing products based on prices as well as a sustainability scale. My tasks include front-end design developement as well as data management which can then be filtered and displayed to the user.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VidhuAgg/Eportfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 2. Teaching Assistant - KTH, Royal Institute of Technology
+Served as the teaching assistant for the course ID1018 and IS1200 from Oct 2021 - March 2022. The tasks included solving doubts from students as well as guiding them when stuck on a problem. It also included having in depth knowledge of the subject in order to assess students and ask them questions to see if they have understanding of the concepts.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 3. Lab Assistant - KTH, Royal Institute of Technology 
+Served as the lab assistant for the course IE1204 from Sep 2021 to Jan 2022. Was resposible for conducting lab sessions with fellow students which either needed help understanding the lab or debugging the problem, or take prsentations for the lab which were then graded. The tasks were related to digital circuit design.
