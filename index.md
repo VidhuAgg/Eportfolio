@@ -3,10 +3,12 @@
 Welcome to my E-portfolio which is a showcase of my work experience as well as my knowlegde of various tools and technoloies. I have not only included the work I have done in school but the the things I have learned in school to help me in the outside world.
 
 
+
 ## About Me
 
 I am currently 21 years old and completing my bachelors in Information and communication technology at KTH Royal institute of technology in Stockholm, Sweden. I am very passionate about exploring new technology in order to innovate something new which keeps me motivated to look forward to the next day. Hvaing worked with various programming languages and frameworks as well as working with electronics and microcontrollers make my skillset a bit versatile having interest in both hardware as well as software developement.
 My first interaction with technology was when i got a RC car at the age of 9 and after playing around for a bit what came to my mind was building one from scratch. Just tinkering around with things and dismantling them to see how it works from the inside was the fuel which kept me running and made me more curious. At the age of 14 i started learning robotics as a hobby and even participated in robotics competitions which built my logical reasoning and team building skills greatly. Currently i like to develop new software as well as learn about the hardware aspect of it to understand how things work on the ground level.
+
 
 
 ## Projects
@@ -22,6 +24,7 @@ Another collaborative project with [Yash Mohan Dhanore](https://github.com/yashd
 
 ### 4. [Kabadhiwala](https://www.facebook.com/KabadhiWala1/): Automatic waste collection robot
 It was a prototype robot dustbin which was self aware in order to detect and then collect solid waste around it. It used a variety of sensors to be aware of its surrounding and finally using computer vision to identify possible waste which in the prototype was limited to crushed bottles/cans. It further then tracked the waste to approach it and scoop it in with a grabbing mechanism.
+ 
  
  
 ## Work Experience
